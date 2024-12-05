@@ -4,19 +4,19 @@ Github page code
 
 <h2>☁️ AWS Pojects (Problem Solving):</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b></b>
+  - []()
   
 <h2>☁️ AWS Pojects (Intermediate):</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b></b>
+  - []()
 
 
 <h2>☁️ AWS Pojects (Beginner)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b></b>
+  - []()
 
 <h2> 🤳 Connect with me:</h2>
 
