@@ -1,5 +1,3 @@
-Github page code
-
 <h1>Hi, I'm Reggie! <br/><a>Cloud Engineer </a></h1>
 
 <h2>☁️ AWS Pojects (Problem Solving):</h2>
