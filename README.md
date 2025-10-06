@@ -1,20 +1,10 @@
-<h1>Hi, I'm Reggie! <br/><a>Cloud Engineer </a></h1>
+<h1>Hi, I'm Reggie! <br/><a>Cloud Engineer ☁️</a></h1>
 
-<h2>☁️ AWS Pojects (Problem Solving):</h2>
+<h2>☁️ Projects (Problem Solving):</h2>
 
-- <b></b>
-  - []()
-  
-<h2>☁️ AWS Pojects (Intermediate):</h2>
-
-- <b></b>
-  - []()
-
-
-<h2>☁️ AWS Pojects (Beginner)</h2>
-
-- <b></b>
-  - []()
+- [picshift](https://github.com/Reggie0003/picshift.git)
+- [MTN-MOMO-DIRECTSEND](https://github.com/Reggie0003/MTN-MOMO-DIRECTSEND.git)
+- [Web-App-Project](https://github.com/Reggie0003/Web-App-Project.git)
 
 <h2> 🤳 Connect with me:</h2>
 
