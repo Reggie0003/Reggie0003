@@ -1,6 +1,6 @@
 <h1>Hi, I'm Reggie! <br/><a>Linux System Administrator</a></h1>
 
-<h2>☁️ Projects :</h2>
+<h2>Projects :</h2>
 
 - [lab-ansible](https://github.com/Reggie0003/lab-ansible.git)
 
