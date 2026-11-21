@@ -2,7 +2,7 @@
 
 <h2>☁️ Projects (Problem Solving):</h2>
 
-- [lab-ansible](https://github.com/Reggie0003/picshift.git)
+- [lab-ansible](https://github.com/Reggie0003/lab-ansible.git)
 
 
 <h2> 🤳 Connect with me:</h2>
