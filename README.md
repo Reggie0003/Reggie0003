@@ -1,10 +1,9 @@
-<h1>Hi, I'm Reggie! <br/><a>Cloud Engineer ☁️</a></h1>
+<h1>Hi, I'm Reggie! <br/><a>Linux System Administrator</a></h1>
 
 <h2>☁️ Projects (Problem Solving):</h2>
 
-- [picshift](https://github.com/Reggie0003/picshift.git)
-- [MTN-MOMO-DIRECTSEND](https://github.com/Reggie0003/MTN-MOMO-DIRECTSEND.git)
-- [Web-App-Project](https://github.com/Reggie0003/Web-App-Project.git)
+- [lab-ansible](https://github.com/Reggie0003/picshift.git)
+
 
 <h2> 🤳 Connect with me:</h2>
 
