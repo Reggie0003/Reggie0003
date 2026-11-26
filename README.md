@@ -2,7 +2,7 @@
 
 <h2>Projects :</h2>
 
-- [lab-ansible](https://github.com/Reggie0003/lab-ansible.git)
+- [home-lab-ansible](https://github.com/Reggie0003/home-lab-ansible.git)
 
 
 <h2> 🤳 Connect with me:</h2>
